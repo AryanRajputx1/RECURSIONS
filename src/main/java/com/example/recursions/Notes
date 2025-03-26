@@ -7,3 +7,11 @@ Space Complexity : is not constant beacuse of calls
 
 it helps us in breakig down bigger problems to smaller problems
 
+
+ Question :Find nth Fibonacci number
+
+
+Brak it down to smaller problem and make a reccurance relation
+the base condition is represented with the answer we already have
+
+
