@@ -1,0 +1,15 @@
+not continous memeory allocation
+Node : every single item knows about the next item , HEAD is the refference that points to the first
+node and Tail points to the last node
+
+Every box contains :  Below is the rep of every node
+class Node {
+int value ;
+Node next ;
+}
+
+ WE cannot access the items using the index number like in Array
+
+
+
+

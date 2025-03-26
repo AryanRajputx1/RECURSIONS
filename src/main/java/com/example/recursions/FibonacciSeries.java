@@ -2,7 +2,7 @@ package com.example.recursions;
 
 public class FibonacciSeries {
     public static void main(String[] args) {
-System.out.println(fibo(6));
+System.out.println(fibo(3));
     }
     static int fibo(int n){
         // base condtion
