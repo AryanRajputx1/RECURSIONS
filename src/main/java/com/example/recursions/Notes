@@ -1,0 +1,9 @@
+WHy Recursion?
+ANs : It helps us in Solving bigger/ Complex problems in a simple way .
+
+You can convert Recursion solutions into iterations and vice versa .
+
+Space Complexity : is not constant beacuse of calls
+
+it helps us in breakig down bigger problems to smaller problems
+

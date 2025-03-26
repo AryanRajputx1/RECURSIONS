@@ -7,7 +7,12 @@ public class NumberExampleRecursion {
 
     }
     static void print(int n ){
-        // finction body here changes
+        // Base condition in recursion is a condition where recursions stops
+       // if you are calling a function again and again you can treat it as a seprate call
+        // no base condition means , fx will keep on happeing , and hence memeory will be consumed
+        // int the heap memory
+        // one time comees when computer memory exceds the limit This gives STACK OVERFLOW ERROR .
+
         if (n == 5){
             System.out.println(n);
             return;
